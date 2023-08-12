@@ -4,7 +4,7 @@ import torch
 from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import Dataset,DataLoader
 import pandas as pd
-DATA_PATH = r'D:\lilili\HireMLPJL\dataset\\2015'
+DATA_PATH = r'XXXXXX'
 
 def whether_type_str(data):
     return "str" in str(type(data))
