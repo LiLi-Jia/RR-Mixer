@@ -53,7 +53,7 @@ def get_absa_dataset(mode='train', text='bert', audio='bert', video='resnet',nor
 #####读取图片特征
     v_features = []
     for image_name in data["#2 ImageID"]:
-        res_path = r"D:\lilili\HireMLPJL\dataset\2015_vit_feature"
+        res_path = r"XXXXXXX"
         res_pt_name = image_name.replace('.jpg', '.pt')
         image_path = os.path.join(res_path, res_pt_name)
         image = torch.load(image_path)
