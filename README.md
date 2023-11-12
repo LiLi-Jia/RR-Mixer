@@ -4,4 +4,4 @@ Initial version codes for RR-Mixer: RR-Mixer A Rearrangement and Restore Mixer M
 # Data
 The image-text data public datasets used in this paper are TWITTER-15 and TWITTER-17.
 # Acknowledgements
-Our framework and some codes are based on [HireMLP](https://github.com/liuruiyang98/Jittor-MLP), thanks very much!
+<!---Our framework and some codes are based on [HireMLP](https://github.com/liuruiyang98/Jittor-MLP), thanks very much!-->
