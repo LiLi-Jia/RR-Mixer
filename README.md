@@ -10,7 +10,7 @@ Initial version codes for RR-Mixer: RR-Mixer A Rearrangement and Restore Mixer M
 
 # Data
 
-1. The image-text data public datasets used in this paper are TWITTER-15 and TWITTER-17[TomBERT](https://github.com/jefferyYu/TomBERT).
+1. The image-text data public datasets used in this paper are [TWITTER-15](https://github.com/jefferyYu/TomBERT) and [TWITTER-17](https://github.com/jefferyYu/TomBERT).
 2. Train a visual sentiment classification model based on the ResNet-152. This datasets is provided by [Yang J[1]](http://47.105.62.179:8081/sentiment_web/datasets/LDL.tar.gz).
 3. The Object Score and IoU Score in the image are obtained using Yolov5. Also, the Senti_score is obtained using the pre-trained model from step 2.
 
