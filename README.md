@@ -20,7 +20,7 @@ Initial version codes for RR-Mixer: RR-Mixer A Rearrangement and Restore Mixer M
 1. search and replace relevant paths
    res_path = 'feature path'
 
-2. train the model
+2. run
 ```
 python run.py --bert_model=bert-base-uncased
 --output_dir=./outupt
@@ -28,7 +28,7 @@ python run.py --bert_model=bert-base-uncased
 --task_name=twitter2015 or 2017
 --do_train
 ```
-3. test the model
+3. test
 ```
 python test.py --bert_model=bert-base-uncased
 --output_dir=./outupt
