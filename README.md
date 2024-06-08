@@ -1,6 +1,8 @@
 # RR-Mixer A Rearrangement and Restore Mixer Model for Target-Oriented Multimodal Sentiment Classification
 Initial version codes for RR-Mixer: RR-Mixer A Rearrangement and Restore Mixer Model for Target-Oriented Multimodal Sentiment Classification
-![示例图片]([https://github.com/LiLi-Jia/RR-Mixer/blob/main/Fig/fig1.png](https://github.com/LiLi-Jia/RR-Mixer/blob/95e8ac9b3d2b490f06a476d6fb3febe5e0a830d2/model.png))
+ 
+
+![model](https://github.com/LiLi-Jia/RR-Mixer/assets/44886362/38b5be68-1eda-49fc-b6b8-d3cef22be182)
 
 ## Requirement
 
