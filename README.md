@@ -22,7 +22,7 @@ Initial version codes for RR-Mixer: RR-Mixer A Rearrangement and Restore Mixer M
 
 2. train the model
 ```
-python train_and_test.py --bert_model=bert-base-uncased
+python run.py --bert_model=bert-base-uncased
 --output_dir=./outupt
 --data_dir=./data/twitter2015 or 2017
 --task_name=twitter2015 or 2017
@@ -30,7 +30,7 @@ python train_and_test.py --bert_model=bert-base-uncased
 ```
 3. test the model
 ```
-python train_and_test.py --bert_model=bert-base-uncased
+python test.py --bert_model=bert-base-uncased
 --output_dir=./outupt
 --data_dir=./data/twitter2015 or 2017
 --task_name=twitter2015 or 2017
