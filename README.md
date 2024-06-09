@@ -52,19 +52,9 @@ If you find this useful for your research, please use the following.
   keywords={Task analysis;Transformers;Image restoration;Mixers;Visualization;Artificial intelligence;Feature extraction;Feature Mixing;rearrangement and restore operations;MLPs-based;target-oriented multimodal sentiment classification},
   doi={10.1109/TAI.2023.3341879}}
 ```
-```
-@INPROCEEDINGS{9880243,
-  author={Guo, Jianyuan and Tang, Yehui and Han, Kai and Chen, Xinghao and Wu, Han and Xu, Chao and Xu, Chang and Wang, Yunhe},
-  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
-  title={Hire-MLP: Vision MLP via Hierarchical Rearrangement}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={816-826},
-  keywords={Representation learning;Computer vision;Image segmentation;Semantics;Computer architecture;Object detection;Transformers;Deep learning architectures and techniques; Efficient learning and inferences; Machine learning; Recognition: detection;categorization;retrieval; Representation learning},
-  doi={10.1109/CVPR52688.2022.00090}}
-```
+ 
 
 # Acknowledgements
 <!---Our framework and some codes are based on [HireMLP](https://github.com/liuruiyang98/Jittor-MLP), thanks very much!-->
 [1] Yang J, Sun M, Sun X. Learning visual sentiment distributions via augmented conditional probability neural network[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2017, 31(1).
+[2] Guo J, Tang Y, Han K, et al. Hire-mlp: Vision mlp via hierarchical rearrangement[C]//Proceedings of the ieee/cvf conference on computer vision and pattern recognition. 2022: 826-836.
