@@ -30,7 +30,7 @@ python run.py --bert_model=bert-base-uncased
 ```
 3. test
 ```
-python test.py --bert_model=bert-base-uncased
+python test.py --bert_model=roberta-large-uncased
 --output_dir=./outupt
 --data_dir=./data/twitter2015 or 2017
 --task_name=twitter2015 or 2017
