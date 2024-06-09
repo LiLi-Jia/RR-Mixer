@@ -59,5 +59,6 @@ If you find this useful for your research, please use the following.
 <!---Our framework and some codes are based on [HireMLP](https://github.com/liuruiyang98/Jittor-MLP), thanks very much!-->
 
 [1] Sun H, Wang H, Liu J, et al. CubeMLP: An MLP-based model for multimodal sentiment analysis and depression estimation[C]//Proceedings of the 30th ACM international conference on multimedia. 2022: 3722-3729.
+
 [2] Guo J, Tang Y, Han K, et al. Hire-mlp: Vision mlp via hierarchical rearrangement[C]//Proceedings of the ieee/cvf conference on computer vision and pattern recognition. 2022: 826-836.
 
