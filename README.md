@@ -55,7 +55,8 @@ If you find this useful for your research, please use the following.
  
 
 # Acknowledgements
+
 <!---Our framework and some codes are based on [HireMLP](https://github.com/liuruiyang98/Jittor-MLP), thanks very much!-->
 [1] Yang J, Sun M, Sun X. Learning visual sentiment distributions via augmented conditional probability neural network[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2017, 31(1).
-1[2] Guo J, Tang Y, Han K, et al. Hire-mlp: Vision mlp via hierarchical rearrangement[C]//Proceedings of the ieee/cvf conference on computer vision and pattern recognition. 2022: 826-836.
+[2] Guo J, Tang Y, Han K, et al. Hire-mlp: Vision mlp via hierarchical rearrangement[C]//Proceedings of the ieee/cvf conference on computer vision and pattern recognition. 2022: 826-836.
 
